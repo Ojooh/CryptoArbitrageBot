@@ -13,7 +13,7 @@ CryptoArbitrageBot is a Python-based cryptocurrency trading bot designed to iden
 ## Usage
 
 1. **Setup Configuration:**
-   - Configure exchanges, API keys, and trading parameters in the `config.json` file.
+   - Configure exchanges, API keys, and trading parameters in the `exchange_data.json` file.
    - Define markets and their details using the `markets.json` file.
 
 2. **Run the Bot:**
@@ -40,13 +40,13 @@ CryptoArbitrageBot is a Python-based cryptocurrency trading bot designed to iden
 
 3. Configure the bot:
 
-   - Edit the `config.json` file with your exchange API keys and trading parameters.
+   - Edit the `exchange_data.json` file with your exchange API keys and trading parameters.
    - Modify the `markets.json` file to define supported markets.
 
 4. Run the bot:
 
    ```bash
-   python main.py
+   python crypto_arbitrage_bot.py
    ```
 
 ## Contribution
