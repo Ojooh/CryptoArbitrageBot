@@ -1,0 +1,7 @@
+2024-02-02 02:34:26 [INFO]: Welcome to Crypto Arbitrage Bot!
+2024-02-02 02:34:26 [INFO]: A bot to find arbitrage opportunities across multiple cryptocurrency exchanges.
+2024-02-02 02:34:26 [INFO]: Available Exchanges:
+2024-02-02 02:34:26 [INFO]: 1. binance
+2024-02-02 02:34:26 [INFO]: 2. quidax
+2024-02-02 02:34:31 [ERROR]: Invalid input. Please enter a number between 1 and 2.
+2024-02-02 02:34:35 [ERROR]: Invalid input. Please enter a number between 1 and 2.
