@@ -1,0 +1,23 @@
+[
+  {
+    "name": "BTC_USDT",
+    "base_currency": "BTC",
+    "quote_currency": "USDT",
+    "base_network": "btc",
+    "quote_network": "bep20"
+  },
+  {
+    "name": "ETH_USDT",
+    "base_currency": "ETH",
+    "quote_currency": "USDT",
+    "base_network": "erc20",
+    "quote_network": "bep20"
+  },
+  {
+    "name": "TRX_USDT",
+    "base_currency": "TRX",
+    "quote_currency": "USDT",
+    "base_network": "TRC20",
+    "quote_network": "bep20"
+  }
+]

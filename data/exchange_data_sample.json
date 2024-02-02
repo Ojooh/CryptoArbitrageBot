@@ -1,0 +1,14 @@
+{
+  "binance": {
+    "exchange_name": "Binance",
+    "exchange_id": "binance123",
+    "fetch_market_price_url": "https://api.binance.com/api/v3/ticker/price?symbol=%",
+    "buy_order_fee_percentage": 0.001,
+    "sell_order_fee_percentage": 0.001,
+    "price_api_key": "price",
+    "symbol_format": {
+      "case": "UPPER",
+      "delimiter": ""
+    }
+  }
+}

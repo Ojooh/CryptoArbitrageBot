@@ -1,5 +1,4 @@
-/env
-/data
+.env
 
 env/
 data/exchange_data.json
